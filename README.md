@@ -16,3 +16,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-277A9F?logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-273444?logo=argo&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?logo=github-actions&logoColor=white)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-alemis/)
