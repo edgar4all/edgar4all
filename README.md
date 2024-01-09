@@ -1,9 +1,3 @@
-# Hello, World! 👋
-
-Welcome to my GitHub profile!
-
----
-
 ## 🛠️ Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -22,9 +16,3 @@ Welcome to my GitHub profile!
 ![Helm](https://img.shields.io/badge/-Helm-277A9F?logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-273444?logo=argo&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
