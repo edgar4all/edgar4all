@@ -17,4 +17,4 @@
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-273444?logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
-## 📫 Connect with Me  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-alemis/)
+## 📫 Connect with me  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-alemis/)
