@@ -15,4 +15,4 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
-## 📫 Contact me: LinkedIn https://www.linkedin.com/in/edgardo-alemis/
+## 📫 Contact me on LinkedIn https://www.linkedin.com/in/edgardo-alemis/
