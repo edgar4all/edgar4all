@@ -2,10 +2,10 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
