@@ -1,4 +1,4 @@
-## 🛠️ Techs & Tools
+## 🛠️ Tecs & Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
