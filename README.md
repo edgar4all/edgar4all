@@ -14,5 +14,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![WordPress Plugin Version](img.shields.io)
 
 ## 📫 Contact me on LinkedIn https://www.linkedin.com/in/edgardo-alemis/
